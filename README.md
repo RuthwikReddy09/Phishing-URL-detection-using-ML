@@ -6,7 +6,7 @@ This project implements a machine learning-based system to detect phishing URLs 
 Open your terminal or command prompt.
 Clone the repository using the following command:
 
-        git clone https://github.com/username/repository_name.git
+        git clone https://github.com/RuthwikReddy09/Phishing-URL-detection-using-ML
    
 3. Navigate to the Cloned Repository
 Move into the project directory:
